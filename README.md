@@ -25,7 +25,7 @@ I am a Data Scientist from Russia.
 
 - I use Neural Networks and have a deal with Image Recognition tasks
 - My main and favourite programming language is C++:heart: but in AI tasks I use Python 🐍
-- I really like to learn foreign languages :books: and read books 📖. In the winter I go snowboarding 🏂
+- I really like to learn foreign languages :books: and read books 📖. On winters I go snowboarding 🏂
 
 ---
 
