@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" width="300"/>
+</div>
 
-<!--
-**KostyaDavydov/KostyaDavydov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://vk.com/davydovke">
+    <img src="https://img.shields.io/badge/vk-blue?logo=vk&logocolor=black&style=for-the-badge"/>
+  </a>
+  <a href="https://t.me/davydovke">
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logocolor=white&style=for-the-badge"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KostyaDavydov&style=flat-square&color=blue" alt=""/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100px"/>
+</h1>
+
